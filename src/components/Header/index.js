@@ -235,7 +235,7 @@ const Header = () => {
     <Headers ref={ref}>
       <Logo>
         <img src={logo} alt="CodeBucks" />
-        <h3>Codest</h3>
+        <h3>Coder</h3>
       </Logo>
       <Nav>
         <a href="#home" onClick={(e) => scrollUp("home", e)}>
